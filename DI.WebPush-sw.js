@@ -1,1 +1,1 @@
-importScripts('https://docker.didev.ca/T/OFC4/WPS/234078/15868/4DnBR2FjfsZwHDyYKmFK0lP1B6rPJRIA/DI.WebPush-sw-lib.js');
+importScripts('https://docker.didev.ca/T/OFC4/WPS/332/15884/VASaOvf0Ya9u5KJxsMBCYEgWzSdrLZHP/DI.WebPush-sw-lib.js');
